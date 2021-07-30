@@ -1,16 +1,22 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20There~&fontSize=90)
 
-<!--
-**kkywalk2/kkywalk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+누가 해놨길래 나도 한번 해봄
 
-Here are some ideas to get you started:
+### My Tech Stack
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+최근에 Backend Developer로 전향해서 Spring은 시작한지 얼마 안됐습니다. 개인적으로는 Node.js도 다루어 보고싶습니다.
+
+<details>
+<summary>나의 링크들</summary>
+<div markdown="1">
+  
+[My velog](https://velog.io/@kkywalk2)
+  
+[Linked In](https://www.linkedin.com/in/ki-young-kwon-168381193/)
+
+</div>
+</details>
