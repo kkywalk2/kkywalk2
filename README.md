@@ -18,7 +18,7 @@
   
 [Linked In](https://www.linkedin.com/in/ki-young-kwon-168381193/)
   
-[My blog](http://cnt2020.hopto.org:9000/blog)
+[My blog](http://cnt2020.hopto.org:9000/blog/)
 
 </div>
 </details>
