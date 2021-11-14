@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-최근에 Backend Developer로 전향해서 Spring은 시작한지 얼마 안됐습니다. 개인적으로는 Node.js도 다루어 보고싶습니다.
+스타트업에서 다양한 소규모 SI 프로젝트들을 경험해 왔습니다. 지금은 Spring boot framework와 JPA를 공부하고 업무에서 사용하고 있습니다.
 
 <details>
 <summary>나의 링크들</summary>
